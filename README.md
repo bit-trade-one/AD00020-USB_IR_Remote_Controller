@@ -1,4 +1,4 @@
-# -ADXXXXX-Template
+# -AD00020-USB_IR_Remote_Controller
 
 ## ここに見出し
 
