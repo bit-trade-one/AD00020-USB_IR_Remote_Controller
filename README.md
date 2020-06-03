@@ -6,7 +6,7 @@
 
 「●●●●●」はほにゃららするためのなんちゃらボード。  
 この製品を使用する事でもにょもにょがぺけぺけできる。  
-
+[AD00020商品画像](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/9da51827c78091a59a300f87ba6b4909.png)
 <!--
 改行する場合、文末に半角スペース2個を置く
 
@@ -47,7 +47,7 @@ exp.
 各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
 -->
 
-# [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
+# [製品の詳細はこちら](https://bit-trade-one.co.jp/product/assemblydisk/ad00020/) 
 
 ## [マニュアルはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
 
