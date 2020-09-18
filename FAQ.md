@@ -1,22 +1,8 @@
-# ADXXXXX-Template よくある質問
+# よくある質問
 
-## Q.XXXとはなんですか？
+## Q: AndroidOSは未対応でしょうか？
 
-### A.YYYです。結論がここにドカンと　見出し\#行で上下1行空けるのはMarkdownの書式
- 
-Lorem ipsum dolor sit amet, consectetur  
-返答の詳細がバーっと  
-adipiscing elit, sed do eiusmod tempor incididunt ut  
+### A:対応OSではございませんが、動作する可能性はあります。
 
-## Q.XXXをZZZ出来ますか？  
-
-### A.はい、可能です。  
-
-labore et dolore magna aliqua. Ut enim  
-ad minim veniam, quis nostrud exercitation  
-
-## Q.YYYでなくWWWとして使いたいです
-
-### A.申し訳ありませんが対応しておりません。  
-
-ullamco laboris nisi ut aliquip ex ea commodo consequat.   
+USB赤外線リモコンからPCへの入力は標準HIDドライバで動作するため、Androidの場合キーコードの受信は可能です。
+一度WindowsPCにてリモコンコードと動作を設定していただき、Androidに接続する形で動作をご確認ください。
