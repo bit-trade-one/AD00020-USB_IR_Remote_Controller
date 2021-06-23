@@ -50,26 +50,30 @@ exp.
 
 # [製品の詳細はこちら](https://bit-trade-one.co.jp/product/assemblydisk/ad00020/) 
 
-## [マニュアルはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+## [マニュアルはこちら](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/03%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E3%83%BB%E3%82%AD%E3%83%83%E3%83%88%E4%BD%9C%E6%88%90%E6%96%B9%E6%B3%95)
 
+<!--
 ## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
+-->
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
+## [ファームウェアはこちら](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/06%E6%9C%80%E6%96%B0%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2(Ver2.1.2))
 
-## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
+## [Q&A](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/FAQ.md)
 
+<!--
 ### [ライブラリはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Library)  
 
 ### [サンプルコードはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
 
 ### [アプリケーションソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
+-->
 
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware_source/)
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/07%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89(Ver2.1.2))
 
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
+### [アートワーク](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/11%E3%82%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF/IR_brd.png)
 
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
-
+### [回路図](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/10%E5%9B%9E%E8%B7%AF%E5%9B%B3/IR_sch.png)
+<!--
 ### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
 
 
@@ -85,7 +89,7 @@ exp.
 
 [ラズパイマガジンXX年Y月号]()  
 [Pc Watch]()
-
+-->
 ## 製品仕様
     製品名：USB赤外線リモコンキット
     製品型番：キット版 AD00020 / 組立済版　AD00020P
