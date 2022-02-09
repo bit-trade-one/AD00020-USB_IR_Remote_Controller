@@ -33,7 +33,7 @@ HIDBootLoader.exeを立ち上げます。
 ![](https://lh5.googleusercontent.com/-LoOXYx-U6JU1DHq827MB8_Rr_vVrsVM1tQ-15Qt62flYZ1t7dUdVXaBLf_9_d8waA406JswOexrPiNcTl_VAKZCXRSiR_85DPMlKXC-l3Gu-h_cQFDRFD0I)  
 次に、スイッチをBOOTに設定し、USBケーブルを接続します。  
 （本製品が既に差し込んであった場合には一度USBケーブルを抜いてからショートピンをBOOTに変更し、再度USBケーブルを差し込みます）  
-![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/9f2cc509cd0f1c6fa366683e9ea1e061.jpg)  
+<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/9f2cc509cd0f1c6fa366683e9ea1e061.jpg" width="420px"> 
 スイッチをBOOTの方にし、USB ケーブルを接続します。  
 ![](https://lh5.googleusercontent.com/WIZEQkqjACZQy8cXOTtHcCphWbtTRoAqtJRJBU4nBQPqal6o29Db1RgKaR72U6k9Pn_UAZ2AqRlzY-mzc5lbXGeQh_NJplQKMsG8f_8lXTqhUVoLEP2wsSWA)  
 デバイスが認識されると上図の様に「Device attached」と表示されます。  
