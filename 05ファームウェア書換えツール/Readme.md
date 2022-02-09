@@ -16,7 +16,7 @@
 
 ### 2. 準備
 
-上記からHIDBootLoader.exeをダウンロードします。  これは、Microchipさんが公開しているライブラリ「MCHPFSUSB」の中にある物と同一です
+上記からHIDBootLoader.exeをダウンロードします。  これは、Microchipさんが公開しているライブラリ「MCHPFSUSB」の中にある物と同一です。  
  [GitHubからのファイルダウンロード方法はこちらの記事でご確認ください。](https://bit-trade-one.co.jp/h2gh/)
 
 このソフトは.NET framework 2.0を用いて作成されています。  
