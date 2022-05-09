@@ -51,7 +51,9 @@ exp.
 
 # [製品の詳細](https://bit-trade-one.co.jp/product/assemblydisk/ad00020/) 
 
-## [マニュアル](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/03Manual/USB%20IR%20REMOCON%20Manual%20.pdf)
+### [マニュアル](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/03Manual/USB%20IR%20REMOCON%20Manual%20.pdf)
+
+---
 
 <!--
 ## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
