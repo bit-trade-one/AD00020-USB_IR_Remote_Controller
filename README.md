@@ -68,6 +68,8 @@ exp.
 ### [アプリケーションソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
 -->
 
+### [ファームウェアソースアップデート方法・ツール](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/05HIDBootLoader)
+
 ### [ファームウェアソースはこちら](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/07Firmware_source(Ver2.1.2))
 
 ### [アートワーク](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/11Artwork)
