@@ -50,13 +50,13 @@ exp.
 
 # [製品の詳細はこちら](https://bit-trade-one.co.jp/product/assemblydisk/ad00020/) 
 
-## [マニュアルはこちら](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/03%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E3%83%BB%E3%82%AD%E3%83%83%E3%83%88%E4%BD%9C%E6%88%90%E6%96%B9%E6%B3%95/USB%20IR%20REMOCON%20Manual.pdf)
+## [マニュアルはこちら](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/03Manual/USB%20IR%20REMOCON%20Manual%20.pdf)
 
 <!--
 ## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
 -->
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/06%E6%9C%80%E6%96%B0%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2(Ver2.1.2))
+## [ファームウェアはこちら](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/06Firmware(Ver2.1.2))
 
 ## [Q&A](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/FAQ.md)
 
@@ -68,11 +68,11 @@ exp.
 ### [アプリケーションソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
 -->
 
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/07%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89(Ver2.1.2))
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/07Firmware_source(Ver2.1.2))
 
-### [アートワーク](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/11%E3%82%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF/IR_brd.png)
+### [アートワーク](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/11Artwork)
 
-### [回路図](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/10%E5%9B%9E%E8%B7%AF%E5%9B%B3/IR_sch.png)
+### [回路図](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/10Schematics)
 <!--
 ### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
 
