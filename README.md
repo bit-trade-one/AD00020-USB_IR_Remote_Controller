@@ -1,3 +1,4 @@
+#### [GitHubの使い方はこちらの記事をご確認ください。](https://bit-trade-one.co.jp/h2gh/)
 # -AD00020-USB_IR_Remote_Controller
 
  パソコンから家庭用機器をリモコン操作、  
@@ -56,7 +57,19 @@ exp.
 ## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
 -->
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/06Firmware(Ver2.1.2))
+## 設定アプリ
+
+### [受信アプリ](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/01App_RECV/REMOCON_CT_RECV.zip)
+
+### [送信アプリ](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/02App_TRANS/ver2.20/REMOCON_CT_TRANS_v220.zip)
+
+
+```
+※設定アプリは同時起動することが出来ません。片方づつお使いください。
+```
+
+
+## [ファームウェア](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/06Firmware(Ver2.1.2))
 
 ## [Q&A](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/FAQ.md)
 
@@ -70,7 +83,7 @@ exp.
 
 ### [ファームウェアソースアップデート方法・ツール](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/05HIDBootLoader)
 
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/07Firmware_source(Ver2.1.2))
+### [ファームウェアソース](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/07Firmware_source(Ver2.1.2))
 
 ### [アートワーク](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/tree/master/11Artwork)
 
