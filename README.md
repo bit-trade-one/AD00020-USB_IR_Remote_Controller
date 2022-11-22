@@ -61,10 +61,9 @@ exp.
 
 ## 設定アプリ
 
-### [受信アプリ](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/01App_RECV/REMOCON_CT_RECV.zip)
+#### [最新受信アプリダウンロードリンク](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/raw/master/01App_RECV/REMOCON_CT_RECV.zip)
 
-### [送信アプリ](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/blob/master/02App_TRANS/ver2.20/REMOCON_CT_TRANS_v220.zip)
-
+#### [最新送信アプリダウンロードリンク](https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller/raw/master/02App_TRANS/ver2.20/REMOCON_CT_TRANS_v220.zip)
 
 ```
 ※設定アプリは同時起動することが出来ません。片方づつお使いください。
